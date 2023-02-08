@@ -1,0 +1,121 @@
+- type: text
+  text: https://raw.githubusercontent.com/ElysiumMods/Art/main/branding/wordmark/wordmark_256h.png
+- type: embed
+
+  embeds:
+    - title: Welcome to Elysium
+
+      description: >
+
+        Elysium is an unofficial port of the Minecraft mod 'EnderIO' 
+
+        Before you get started, **please make sure to review our [rules](https://quiltmc.org/community) and
+        [Code of Conduct](https://quiltmc.org/community/code-of-conduct).** We also recommend taking a look at our
+        [guide for newcomers](https://quiltmc.org/about/newcomer-guide/).
+
+
+        We hope you enjoy your time with us!
+
+    - title: Quilt Development
+
+      description: >
+        If you're interested in helping with development, please let us know in the <#1072588010455040030> channel!
+
+- type: rules
+
+  rules:
+    Follow Elysium's Community Documents: >
+      Everyone is expected to read and abide by our [Code of Conduct](https://github.com/ElysiumMods/Community/blob/main/code-of-conduct.md)
+      and QuiltMC's [NSFW Content Policy](https://quiltmc.org/community/nsfw-policy/)
+
+    Follow Discord's rules: >
+      As a Discord-based community, we require everyone to follow Discord's
+      [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms)
+
+    Try to speak English: >
+      The common language in our community is English, but we understand that not everyone speaks English at the same
+      level. Try to speak English to the best of your ability, and don't worry if you need to use translation tools. We
+      will not tolerate making fun of people for poor English.
+
+    Listen to & respect all community team members: >
+      Please take requests from community team members seriously and listen when a team member asks you to do
+      something. If you have a problem with what a team member is asking you to do, we advise that you step away from
+      the situation and send a private message to another team member.
+
+    Keep all projects legal, legitimate & appropriate: >
+      We will not tolerate any projects that may break laws, breach a Terms of Service or an EULA, involve sexual
+      content, or that the moderators determine to be malicious or inappropriate.
+
+    Don’t spam: >
+      Don't spam our channels or users, and don't advertise your projects outside of the relevant showcase channels.
+
+    Respect our channels: >
+      Follow the given channel topic, and don't derail a discussion
+    
+    Don't ask for help with EnderIO: >
+      This mod is not EnderIO, rather a port of it. Please go to their means of support for issues with it, as we will not provide support for EnderIO here.
+
+    Don't import drama or controversy from other communities: >
+      One of our most important rules - don't make things difficult for other users by bringing up controversies from
+      other communities.
+    
+    Before asking 'Why is the bot talking': >
+      It is not a bot, rather PluralKit/ProxyFox. This is used to have greater accessibility for plural systems. See [QuiltMC's docs on this topic](https://quiltmc.org/community/pluralkit/) 
+
+- type: embed
+
+  text: '\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_'
+
+  embeds:
+    - title: Subjects to Avoid
+      color: 0x6C0000
+
+      description: >
+        Sometimes, something begins trending or becoming popular, or an event happens in the community. We try to
+        allow for discussions to happen, but that isn't always possible. For that reason, we ask that you **do not post
+        or talk about the following things:**
+
+
+        **»** AI-generated "body horror" images - generated images of people, animals or faces that are disfigured or
+        look "wrong" in any way.
+
+
+        **»** Anything relating to Mojang's new Java Edition chat reporting features, including discussions relating to
+        potential exploits, or mods that make use of them. As an exception to this rule, you may discuss strategies
+        and mods for mitigating the usage of exploits on your servers, and good-faith mods that allow you to control
+        how chat reporting works on your servers.
+
+
+        This list will change over time, and we're equally likely to add or remove things as the way people approach
+        these subjects online changes.
+
+    - title: ModMail
+      color: 0xf54058
+
+      description: >
+        Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the Quilt Moderation Team
+        by privately messaging the <@1072630731056107591> ModMail bot. This will open a private channel between you
+        and the Moderators.
+
+        You can also right-click (or long-tap on mobile) a message and select Apps > Report to quickly forward
+        that message to the Moderators. The bot will prompt you to add more comments if you would like to.
+
+- type: links
+
+  title: Useful Links
+
+  links:
+    Elysium on GitHub: https://github.com/ElysiumMods
+- type: threads
+  mode: active
+  template: "**»** {EMOJI}[{NAME}]({URL}) | {ACTIVE_TIME}"
+  description: This is a list of the ten most-recently-active threads, sorted by the time they were last active.
+  archive_status_in_name: false
+  archived_emoji: "🔇"
+
+- type: threads
+  mode: newest
+  template: "**»** {EMOJI}[{NAME}]({URL}) | {CREATED_TIME}"
+  description: This is a list of the ten most-recently-created threads, sorted by their creation date.
+  archive_status_in_name: false
+  archived_emoji: "🔇"
