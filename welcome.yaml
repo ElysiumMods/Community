@@ -12,7 +12,6 @@
         Elysium is an unofficial port of the Minecraft mod 'EnderIO'
 
         Before you get started, **please make sure to review our rules and
-        # yamllint disable-line rule:line-length
         [Code of Conduct](https://github.com/ElysiumMods/Community/blob/main/code-of-conduct.md).**
 
         We hope you enjoy your time with us!
@@ -26,10 +25,8 @@
 - type: rules
 
   rules:
-    # yamllint disable-line rule:line-length
     Follow Elysium's Community Documents: >
       Everyone is expected to read and abide by our
-      # yamllint disable-line rule:line-length
       [Code of Conduct](https://github.com/ElysiumMods/Community/blob/main/code-of-conduct.md)
       and QuiltMC's
       [NSFW Content Policy](https://quiltmc.org/community/nsfw-policy/)
