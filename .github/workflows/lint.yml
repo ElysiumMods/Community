@@ -9,7 +9,7 @@ jobs:
     - name: Check out code
       uses: actions/checkout@v2
 
-    - name: Lint changelog file
+    - name: Lint code of conduct
       uses: docker://avtodev/markdown-lint:v1 # fastest way
       with:
         args: './code-of-conduct.md'
