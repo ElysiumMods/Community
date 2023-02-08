@@ -10,7 +10,7 @@
         Elysium is an unofficial port of the Minecraft mod 'EnderIO' 
 
         Before you get started, **please make sure to review our rules and
-        [Code of Conduct](https://quiltmc.org/community/code-of-conduct).**
+        [Code of Conduct](https://github.com/ElysiumMods/Community/blob/main/code-of-conduct.md).**
 
         We hope you enjoy your time with us!
 
@@ -91,7 +91,7 @@
       color: 0xf54058
 
       description: >
-        Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the Quilt Moderation Team
+        Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the Elysium Moderation Team
         by privately messaging the <@1072630731056107591> ModMail bot. This will open a private channel between you
         and the Moderators.
 
