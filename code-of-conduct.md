@@ -1,7 +1,8 @@
 # Code of Conduct
 
 Elysium bases it's rules and policies around a Code of Conduct. It provides
-behavioural expectations for every member within the Elysium community. **Not reading the Code of Conduct is NOT an excuse for breaking it.**
+behavioural expectations for every member within the Elysium community.
+**Not reading the Code of Conduct is NOT an excuse for breaking it.**
 
 The Code of Conduct is the basis for our Discord server rules.
 
